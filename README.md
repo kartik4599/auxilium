@@ -1,4 +1,4 @@
-# instagram_demo
+# auxilium
 
 A new Flutter project.
 
