@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769964934406",
+    "project_id": "auxilium-8",
+    "storage_bucket": "auxilium-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769964934406:android:67df08555c160934b44a87",
+        "android_client_info": {
+          "package_name": "com.example.instagram_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769964934406-vd20vg31u74qr9g7jrjclvl6poh046e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXrhbx2uLFCR7VoAfJ5vM4NuuhvR_zXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769964934406-vd20vg31u74qr9g7jrjclvl6poh046e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
